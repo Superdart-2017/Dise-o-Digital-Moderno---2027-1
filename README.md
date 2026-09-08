@@ -1,4 +1,4 @@
-# Dise-o-Digital-Moderno---2027-1
+# Dise-o-Digital-Moderno-2027-1
 
 Repositorio del equipo para la materia Diseño Digital Moderno (Grupo 5), Facultad de Ingeniería, UNAM. Semestre 2027-1.
 
