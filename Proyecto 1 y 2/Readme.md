@@ -1,4 +1,4 @@
-#Proyecto 1 y 2
+Proyecto 1 y 2
 ---
 Los siguientes proyectos son dos proyectos diferentes en donde cada se enfoca en un aspecto:
 
